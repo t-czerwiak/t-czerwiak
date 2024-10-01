@@ -1,5 +1,2 @@
-## Hola
+## Hola, vivan los feriados judios
 
-<!--
-Vivan los feriados judios
--->
